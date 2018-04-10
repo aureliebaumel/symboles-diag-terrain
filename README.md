@@ -1,4 +1,4 @@
-# symboles-diag-terrain$
+# symboles-diag-terrain
 
 
 $ git init
