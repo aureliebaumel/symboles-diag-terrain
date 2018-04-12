@@ -1,4 +1,4 @@
-# symboles-diag-terrain
+# Qgis_ressource_sharing
 
 
 $ git init
